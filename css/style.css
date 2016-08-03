@@ -42,3 +42,14 @@ body{
   border:1px solid grey;
   padding: 5px 3px;
 }
+
+.clear{
+  clear:both;
+}
+
+.codeContainer{
+  background-color: blue;
+  height: 100%;
+  width:50%;
+  float:left;
+}
