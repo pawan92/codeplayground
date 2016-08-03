@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: "HelveticaNeue-:   ;Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+}
+#menubar{
+  width:100%;
+  background-color:#EFEEEC;
+  height:40px;
+  border: 1px solid black;
+
+}
+#logo
+{
+  padding: 5px 0 0 20px;
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+}
+#button{
+  float: right;
+  padding:2px 10px 0 0;
+}
+#runButton{
+  font-size:20px;
+}
+#toggles{
+  width:200px;
+  margin: 0 auto;
+  list-style: none;
+ border-radius: 100px;
+  height 27px;
+  padding: 0;
+  position:relative;
+  top: 5px;
+
+
+}
+#toggles li {
+  float:left;
+  border:1px solid grey;
+  padding: 5px 3px;
+}
